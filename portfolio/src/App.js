@@ -1,10 +1,8 @@
 import React from "react";
- import { Canvas } from "react-three-fiber";
+import { Canvas } from "react-three-fiber";
 
 function App() {
-  returnn (
-   <Canvas></Canvas>
-  );
+  return <Canvas></Canvas>;
 }
 
 export default App;
