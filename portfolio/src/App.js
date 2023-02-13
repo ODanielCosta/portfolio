@@ -1,8 +1,9 @@
+import React from "react";
+ import { Canvas } from "react-three-fiber";
+
 function App() {
-  return (
-    <div>
-      <h2>Let's get started!</h2>
-    </div>
+  returnn (
+   <Canvas></Canvas>
   );
 }
 
